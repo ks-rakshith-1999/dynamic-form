@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|d:\\angular project\\angulardynamicform\\dynamic-form\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|d:\\angular project\\angulardynamicform\\dynamic-form\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\node_modules\\@angular\\forms\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\@angular\\forms\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|d:\\angular project\\angulardynamicform\\dynamic-form\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|d:\\angular project\\angulardynamicform\\dynamic-form\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|d:\\angular project\\angulardynamicform\\dynamic-form\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|d:\\angular project\\angulardynamicform\\dynamic-form\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B85E74D-68BB-4147-87ED-6115D86284E8}|dynamic-form.esproj|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.d.ts",
+              "DocumentMoniker": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\node_modules\\@angular\\forms\\index.d.ts",
+              "RelativeDocumentMoniker": "node_modules\\@angular\\forms\\index.d.ts",
+              "ToolTip": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\node_modules\\@angular\\forms\\index.d.ts",
+              "RelativeToolTip": "node_modules\\@angular\\forms\\index.d.ts",
+              "ViewState": "AgIAALEIAAAAAAAAAAAuwMEIAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-22T16:31:22.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T16:17:10.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T16:17:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-22T16:15:01.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-22T15:56:52.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-22T15:56:48.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "D:\\Angular Project\\AngularDynamicForm\\dynamic-form\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-22T15:56:41.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
